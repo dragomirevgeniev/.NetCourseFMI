@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranspositionCipher", "TranspositionCipher\TranspositionCipher.csproj", "{32620572-89A7-4776-B89F-ABB4F0DEFA8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCipher\CaesarCipher.csproj", "{7C055751-FB0A-4845-B1BF-36667D04ADCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZIPCodeEncoding", "ZIPCodeEncoding\ZIPCodeEncoding.csproj", "{56BED17C-FA6B-474A-A651-920F44051C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32620572-89A7-4776-B89F-ABB4F0DEFA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32620572-89A7-4776-B89F-ABB4F0DEFA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32620572-89A7-4776-B89F-ABB4F0DEFA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32620572-89A7-4776-B89F-ABB4F0DEFA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C055751-FB0A-4845-B1BF-36667D04ADCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C055751-FB0A-4845-B1BF-36667D04ADCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C055751-FB0A-4845-B1BF-36667D04ADCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C055751-FB0A-4845-B1BF-36667D04ADCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BED17C-FA6B-474A-A651-920F44051C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BED17C-FA6B-474A-A651-920F44051C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BED17C-FA6B-474A-A651-920F44051C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BED17C-FA6B-474A-A651-920F44051C95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
